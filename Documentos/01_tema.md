@@ -8,7 +8,7 @@ Impacto Social da Tecnologia
 
 - Grupo: `[preencher]`
 - Integrantes: Jefferson Gabriel Souza Santana Lopes, Paulo Henrique Monteiro Moura, Rafael Silva da Cruz
-- Data: 22/09/2026 `[22/09/2026]`
+- Data: `[22/09/2026]`
 
 ## Preenchimento
 
