@@ -6,31 +6,31 @@ Impacto Social da Tecnologia
 
 ## Identificação
 
-- Grupo: `[preencher]`
-- Integrantes: `[Jefferson Gabriel Souza Santana Lopes, Paulo Henrique Monteiro Moura, Rafael Silva da Cruz]`
-- Data: `[22/09/2026]`
+- Grupo: preencher
+- Integrantes: Jefferson Gabriel Souza Santana Lopes, Paulo Henrique Monteiro Moura, Rafael Silva da Cruz
+- Data: 22/09/2026
 
 ## Preenchimento
 
 ### Área geral
 
-`[Tecnologia e Sociedade]`
+Tecnologia e Sociedade
 
 ### Tema delimitado
 
-`[Os impactos do uso excessivo de tecnologias digitais na saúde mental dos indivíduos, com foco nos efeitos sobre o bem-estar e as relações sociais no ambiente de trabalho.]`
+Os impactos do uso excessivo de tecnologias digitais na saúde mental dos indivíduos, com foco nos efeitos sobre o bem-estar e as relações sociais no ambiente de trabalho.
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[Tecnologia e Sociedade]` 
-- Objeto estudado: `[O uso de tecnologias digitais]` 
-- Contexto ou aplicação: `[Cotidiano e ambiente de trabalho]` 
-- Aspecto que será analisado: `[Impactos na saúde mental e nas relações sociais]`
-- O que ficará fora do estudo: `[Aspectos técnicos do desenvolvimento das tecnologias, como programação, hardware e infraestrutura]`
+- Tema amplo: Tecnologia e Sociedade]` 
+- Objeto estudado: O uso de tecnologias digitais 
+- Contexto ou aplicação: Cotidiano e ambiente de trabalho
+- Aspecto que será analisado: Impactos na saúde mental e nas relações sociais
+- O que ficará fora do estudo: Aspectos técnicos do desenvolvimento das tecnologias, como programação, hardware e infraestrutura
 
 ### Justificativa
 
-`[O avanço das tecnologias digitais tem transformado a forma como as pessoas se comunicam, trabalham e se relacionam. Embora essas ferramentas tragam benefícios para a sociedade, seu uso excessivo ou inadequado pode gerar impactos na saúde mental e nas relações sociais. Dessa forma, estudar essas consequências é importante para compreender os efeitos da tecnologia no cotidiano e promover uma utilização mais consciente.]`
+O avanço das tecnologias digitais tem transformado a forma como as pessoas se comunicam, trabalham e se relacionam. Embora essas ferramentas tragam benefícios para a sociedade, seu uso excessivo ou inadequado pode gerar impactos na saúde mental e nas relações sociais. Dessa forma, estudar essas consequências é importante para compreender os efeitos da tecnologia no cotidiano e promover uma utilização mais consciente.
 
 
 ### Viabilidade
@@ -57,4 +57,6 @@ O avanço das tecnologias digitais tem provocado mudanças significativas na for
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Rafael]` | `[Escolha e definição do tema, desenvolvimento da justificativa]` |
+| `[Jefferson]` | `[Escolha e definição do tema, Foco na parte da Visibilidade e do Tema amplo ao expecífico]` |
+| `[Paulo]` | `[Escolha e definição do tema, Criação do repositório e edição do documento]` |
